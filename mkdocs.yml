@@ -1,0 +1,6 @@
+site_name: Technical NOC Docs
+site-url: https://www.zeroundefined.net/devdocs
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
