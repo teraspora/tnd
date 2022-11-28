@@ -4,3 +4,5 @@ nav:
     - Home: index.md
     - About: about.md
 theme: readthedocs
+extra_css:
+  - css/extra.css

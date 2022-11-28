@@ -1,0 +1,19 @@
+h1 {
+  color: #ff7b00b6;
+}
+
+h2 {
+  color: #0084ffb6;
+}
+
+div.wy-nav-content {
+    border: 4px solid #ff5500;
+    background-color: #000013;
+    width: 60vw;
+}
+
+section.wy-nav-content-wrap {
+    color: #ffddaa;
+    background-color: #000552;
+    font-size: 0.8vw;
+}
